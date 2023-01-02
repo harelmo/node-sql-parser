@@ -44,7 +44,8 @@
     "LICENSE",
     "package.json",
     "README.md",
-    "types.d.ts"
+    "types.d.ts",
+    "compile.sh"
   ],
   "license": "GPLv2",
   "bugs": {
